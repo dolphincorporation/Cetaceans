@@ -19,6 +19,7 @@ This document tracks tested hardware platforms, SoC architectures, and kernel ve
 | **Infinix Hot 70** | INFINIX infinix X6895B | 16 | 6.12.38 | Mediatek Helio G100 Ultimate | 10.38 | PASS | PASS | Fully operational (GKI) |
 | **Infinix Hot 40 Pro** | INFINIX infinix X6837 | 13 | 5.10.226 | Mediatek Helio G99 | 10.38 | PASS | PASS | Fully operational (GKI) |
 | **Xiaomi POCO F5 5G** | Xiaomi POCO 23049PCD8I | 15 | 5.10.236 | Qualcomm Snapdragon 7+ Gen 2 | 10.38 | PASS | PASS | Fully operational (GKI) |
+| **Infinix Note 30** | INFINIX infinix X6833B | 14 | 5.10.209 | Mediatek Helio G99 | 10.38 | PASS | PASS | Fully operational (GKI) |
 --- 
 
 ## ARMv8.5+ / ARMv9 BTI (Branch Target Identification) Compliance Note
