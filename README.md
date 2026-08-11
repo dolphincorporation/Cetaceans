@@ -21,6 +21,7 @@ This document tracks tested hardware platforms, SoC architectures, and kernel ve
 | **Xiaomi POCO F5 5G** | Xiaomi POCO 23049PCD8I | 15 | 5.10.236 | Qualcomm Snapdragon 7+ Gen 2 | 10.38 | PASS | PASS | Fully operational (GKI) |
 | **Infinix Note 30** | INFINIX infinix X6833B | 14 | 5.10.209 | Mediatek Helio G99 | 10.38 | PASS | PASS | Fully operational (GKI) |
 | **Infinix Note 50 Pro 4G** | INFINIX infinix X6855 | 15 | 5.10.209 | Mediatek Helio G100 Ultimate | 10.38 | PASS | PASS | Fully operational (GKI) |
+| **Xiaomi Redmi Note 12 5G** | Xiaomi Redmi 22101317C | 14 | 5.4.289 | Qualcomm Snapdragon 4 Gen 1 | 10.38 | PASS | PASS | Fully operational (qGKI) |
 --- 
 
 ## ARMv8.5+ / ARMv9 BTI (Branch Target Identification) Compliance Note
