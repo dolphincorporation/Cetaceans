@@ -17,6 +17,7 @@ This document tracks tested hardware platforms, SoC architectures, and kernel ve
 | **Motorola Moto G57 Power** | Motorola moto g57 power | 16 | 6.6.87 | Qualcomm SM6435-AA Snapdragon 6s Gen 4 | 10.38 | PASS | PASS | Fully operational (GKI) |
 | **Xiaomi Poco F6** | Xiaomi POCO 24069PC21l | 16 | 6.1.118 | Qualcomm SM8635 Snapdragon 8s Gen 3 | 10.38 | PASS | PASS | Fully operational (GKI) |
 | **Infinix Hot 70** | INFINIX infinix X6895B | 16 | 6.12.38 | Mediatek Helio G100 Ultimate | 10.38 | PASS | PASS | Fully operational (GKI) |
+| **Infinix Hot 40 Pro** | INFINIX infinix X6837 | 13 | 5.10.226 | Mediatek Helio G99 | 10.38 | PASS | PASS | Fully operational (GKI) |
 
 --- 
 
