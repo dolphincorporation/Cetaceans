@@ -24,7 +24,7 @@ This document tracks tested hardware platforms, SoC architectures, and kernel ve
 | **Xiaomi Redmi Note 12 5G** | Xiaomi Redmi 22101317C | 14 | 5.4.289 | Qualcomm Snapdragon 4 Gen 1 | 10.38 | PASS | PASS | Fully operational (qGKI) | x
 | **Realme C55** | Realme RMX3710 | 15 | 6.6.30 | MediaTek Helio G88 | 10.38 | PASS | PASS | Fully operational (GKI) | x
 | **Samsung Galaxy M14 4G** | Samsung SM-145F | 15 | 5.15.180 | Qualcomm SM6225 Snapdragon 680 4G | 10.52 | PASS | PASS | Fully operational (GKI) | PASS
-| **Xiaomi Mi 11i** | Xiaomi M2012K11G | 12 | 5.4.147 | Qualcomm SM8350 Snapdragon 888 5G | 10.52 | PASS | PASS | Fully operational (GKI) | PASS
+| **Xiaomi Mi 11i** | Xiaomi M2012K11G | 12 | 5.4.147 | Qualcomm SM8350 Snapdragon 888 5G | 10.52 | PASS | ? | Fully operational (GKI) | PASS
 | **Infinix GT 50 Pro 5G** | Infinix infinix X6891 | 14 | 5.10.209 | MediaTek Dimensity 8400 Ultimate | 10.52 | PASS | Fail | Fully operational (GKI) | PASS
 --- 
 
