@@ -18,7 +18,7 @@ This document tracks tested hardware platforms, SoC architectures, and kernel ve
 | **Xiaomi Poco F6** | Xiaomi POCO 24069PC21l | 16 | 6.1.118 | Qualcomm SM8635 Snapdragon 8s Gen 3 | 10.38 | PASS | PASS | Fully operational (GKI) | x
 | **Infinix Hot 70** | INFINIX infinix X6895B | 16 | 6.12.38 | Mediatek Helio G100 Ultimate | 10.38 | PASS | PASS | Fully operational (GKI) | x
 | **Infinix Hot 40 Pro** | INFINIX infinix X6837 | 13 | 5.10.226 | Mediatek Helio G99 | 10.38 | PASS | PASS | Fully operational (GKI) | x
-| **Xiaomi POCO F5 5G** | Xiaomi POCO 23049PCD8I | 15 | 5.10.236 | Qualcomm Snapdragon 7+ Gen 2 | 10.38 | PASS | PASS | Fully operational (GKI) | x
+| **Xiaomi POCO F5 5G** | Xiaomi POCO 23049PCD8I | 15 | 5.10.236 | Qualcomm Snapdragon 7+ Gen 2 | 10.38 | PASS | PASS | Fully operational (GKI) | PASS
 | **Infinix Note 30** | INFINIX infinix X6833B | 14 | 5.10.209 | Mediatek Helio G99 | 10.38 | PASS | PASS | Fully operational (GKI) | x
 | **Infinix Note 50 Pro 4G** | INFINIX infinix X6855 | 15 | 5.10.209 | Mediatek Helio G100 Ultimate | 10.52 | PASS | PASS | Fully operational (GKI) | PASS
 | **Xiaomi Redmi Note 12 5G** | Xiaomi Redmi 22101317C | 14 | 5.4.289 | Qualcomm Snapdragon 4 Gen 1 | 10.38 | PASS | PASS | Fully operational (qGKI) | x
